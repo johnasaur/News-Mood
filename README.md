@@ -1,4 +1,4 @@
-#### written description of three observable trends based on the data:
+  #### Written description of three observable trends based on the data:
 1. Tweets from New York Times appear to be the most neutral as opposed to the other news organisations. 
 2. CBS has the highest polarity in tweets and the New York Times has the lowest.
 3. Based on the twitter text, BCC has the most retweets.
